@@ -1,0 +1,6 @@
+# Instagram profiles to message, one username per line
+# Lines starting with # are ignored
+
+profile1
+profile2
+profile3 
